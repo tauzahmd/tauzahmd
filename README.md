@@ -28,9 +28,10 @@ I'm Syed, a passionate Software Engineer with a strong Python development and au
 
 
 
-
+<!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tauzahmd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tauzahmd" /></a></p><br><br>
+-->
 
 
 
