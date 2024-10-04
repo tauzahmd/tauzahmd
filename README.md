@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" height="20" />
 #### Welcome to my GitHub profile! 🚀
 
 I'm Syed, a passionate Software Engineer with a strong Python development and automation background. 🐍💻
